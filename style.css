@@ -1,3 +1,37 @@
 body{
-    background-color: hsl(30, 54%, 90%);
+
+}
+
+p{
+    font-size: 16px;
+}
+
+div.main{
+    position: absolute;
+    width: 600px;
+    background-color: white;
+    margin: 70px 430px;
+    /* height: fit-content; */
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.main img{
+    width: 500px;
+    margin: 10px 30px 30px 30px;
+    border-radius: 10px;
+}
+
+#preparation{
+    padding-left: 30px;
+    margin: 10px 0p 10px 10px;
+}
+
+h2{
+    color: hsl(332, 51%, 32%);
+}
+
+.table tr td:last-child{
+    font-weight: 500;
+    color: hsl(332, 51%, 32%);
 }
