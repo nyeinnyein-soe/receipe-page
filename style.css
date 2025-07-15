@@ -35,3 +35,11 @@ h2{
     font-weight: 500;
     color: hsl(332, 51%, 32%);
 }
+
+ul li::marker{
+    color: hsl(332, 51%, 32%);
+}
+
+ol li::marker{
+    color: hsl(332, 51%, 32%)
+}
